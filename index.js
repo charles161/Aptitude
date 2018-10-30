@@ -26,6 +26,22 @@ let books = [
         options: ['JAVA', 'C', 'C++', 'None of the above']
       }
     ]
+  },
+  {
+    name: 'KCT',
+    id: '4345',
+    questions: [
+      {
+        name: 'Where is kct located',
+        answer: 0,
+        options: ['cbe', 'chennai', 'mad', 'None of the above']
+      },
+      {
+        name: 'Is it autonomous',
+        answer: 1,
+        options: ['yes', 'no', 'maybe', 'None of the above']
+      }
+    ]
   }
 ]
 //name=bookname,
